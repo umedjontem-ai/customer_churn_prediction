@@ -5,6 +5,8 @@
 A machine learning project that predicts whether a customer is likely to churn. The project focuses on data analysis, preprocessing, classification, model evaluation, and identifying the factors that influence customer churn.
 
 ## Dataset
+The dataset was downloaded from kaggle, below is the link:
+https://www.kaggle.com/datasets/smayanj/customer-churn-prediction-dataset
 
 The dataset contains customer information such as:
 
